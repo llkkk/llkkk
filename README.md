@@ -19,10 +19,6 @@ I enjoy exploring how things work, solving practical problems, and building usef
 
 A helper for installing Docker in offline environments, with version selection and installation script generation.
 
-**[ai-infra-console](https://github.com/llkkk/ai-infra-console)**
-
-A frontend prototype for infrastructure and computing resource management.
-
 ---
 
 *Keep exploring. Keep building.*

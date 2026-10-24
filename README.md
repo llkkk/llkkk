@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @llkkk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Lorvyk 🐻‍❄️
 
-<!---
-llkkk/llkkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Developer · Builder · Explorer**
+
+*Stay curious. Build boldly.*
+
+I enjoy exploring how things work, solving practical problems, and building useful tools along the way.
+
+### What I'm into
+
+- Cloud Native & DevOps
+- Automation & Infrastructure
+- AI & Developer Tools
+- Open Source & Side Projects
+
+### Selected Projects
+
+**[docker-offline](https://github.com/llkkk/docker-offline)**
+
+A helper for installing Docker in offline environments, with version selection and installation script generation.
+
+**[ai-infra-console](https://github.com/llkkk/ai-infra-console)**
+
+A frontend prototype for infrastructure and computing resource management.
+
+---
+
+*Keep exploring. Keep building.*
